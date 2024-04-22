@@ -2,7 +2,7 @@
   "Express": {
     "ip": "0.0.0.0",
     "Port": 6070,
-    "encryptionKey": " am_something_very_precious_and_i_have_to_have_32_characters",
+    "encryptionKey": "am_something_very_precious_and_i_have_to_have_32_characters",
     "cors": {
       "active": true,
       "allow": [
@@ -12,6 +12,11 @@
         "localhost"
       ]
     }
+  },
+  "Auth": {
+    "email": "",
+    "password": "",
+    "uuid": ""
   },
   "Emojis": {
     "egg": "<:square_discovery:1123998856212918423>",
