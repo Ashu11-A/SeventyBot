@@ -12,14 +12,12 @@
 ![SourceForge Languages](https://img.shields.io/github/languages/top/Ashu11-A/PaymentBot?style=for-the-badge&colorA=302D41&colorB=90dceb)
 
 </div>
+
+> [!WARNING]
+> Projeto movido para: https://github.com/Ashu11-A/Fragment-source
+
 <div align="left">
-
-<div align="center">
   
-🟢 Projeto está desenvolvimento.
-
-</div>
-
 ## ⚠️ | Aviso
 
 Oi! Se você chegou até aqui em busca do código-fonte deste bot, é um prazer tê-lo por aqui. No entanto, atualmente estou envolvido em uma parceria e decidi manter o código-fonte privado por enquanto.
